@@ -1,4 +1,4 @@
-# Tutotrial Minecraft Laborübung (Tag der offenen Türe)
+# Tutorial Minecraft Laborübung (Tag der offenen Türe)
 
 [TOC]
 
@@ -47,7 +47,7 @@ Folgende Einstellungen sollten gesetzt werden.
   
 ![Minecraft Settings](./Images/settingsEins.png)
 
-## 3. Steuerung
+## 3. Spiel-Steuerung
 
 | Taste        | Ergebnis    | 
 |--------------|-----------|
@@ -99,7 +99,7 @@ Der Nutzer wählt hierbei im Hauptmenu den Button "Multiplayer" aus. Nun sollte 
 
 Der Nutzer befindet sich nun im Survival mode. Um dem Nutzer in dern Creativmodus zu setzten wird ein Command unter dem Spielleiter PC ausgeführt:
 
-`/gamemode creative <Spielername>
+`/gamemode creative <Spielername>`
 
 
 ## 6. Nützliche Infos
