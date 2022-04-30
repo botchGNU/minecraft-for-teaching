@@ -1,4 +1,4 @@
-# Tutorial Minecraft Laborübung (Tag der offenen Türe)
+# Tutorial Minecraft Laborübung (Tag der offenen Tür)
 
 [TOC]
 
